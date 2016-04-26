@@ -1,0 +1,4 @@
+Bernie Sanders,SenSanders,BernieSanders,sanders
+Hillary Clinton,HillaryClinton,hillaryclinton,hillary,hillary2016,Hillary
+Ted Cruz,tedcruz
+Donald Trump,Donald J. Trump,trump
